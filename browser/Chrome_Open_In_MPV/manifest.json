@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Open In MPV",
-  "description": "Open videos and audios in MPV.",
-  "version": "1.01",
+  "name": "mpvrunner",
+  "description": "Open videos and audios in mpv.",
+  "version": "1.02",
   "background": {
     "page": "background.html"
   },
@@ -20,7 +20,7 @@
       "256": "icon256.png",
       "512": "icon512.png"
     },
-    "default_title": "Open In MPV"
+    "default_title": "mpvrunner"
   },
   "permissions": [
     "activeTab"
